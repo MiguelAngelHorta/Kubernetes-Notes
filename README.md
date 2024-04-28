@@ -1,5 +1,7 @@
 # Kubernetes-Notes
 Kubernetes &amp; Cloud Native Notes
+![image](https://github.com/MiguelAngelHorta/Kubernetes-Notes/assets/106134627/5b3efaa3-5d08-4be2-99d7-eeedf28e689e)
+
 
 # Kubernetes Commands Cheat Sheet
 
